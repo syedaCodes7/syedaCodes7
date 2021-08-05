@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @syedaCodes7
-- 👀 I’m interested in exploring
+- 👋 Hi, I’m Syeda Neha Mahin
+- 👀 I’m interested in exploring and learning technologies
 - 🌱 I’m currently learning React, Wordpress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syedaa.codes@gmail.com
